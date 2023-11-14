@@ -1,4 +1,4 @@
-![image](https://github.com/AleczJasmine/AleczJasmine/assets/74661520/28a7e3be-2593-4b1e-90ae-1246528f992d)- 👋 Hi, I’m @AleczJasmine
+ 👋 Hi, I’m @AleczJasmine
 - 👀 I’m interested in finding opportunities to code 
 - 💞️ I’m looking to collaborate on new and exciting projects. Preferably, on ones that are on an intermediate and beginner level.
 - 📫 How to reach me:
