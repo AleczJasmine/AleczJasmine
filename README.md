@@ -1,6 +1,5 @@
  👋 Hi, I’m @AleczJasmine
-- 👀 I’m interested in finding opportunities to code 
-- 💞️ I’m looking to collaborate on new and exciting projects. Preferably, on ones that are on an intermediate and beginner level.
+- 💞️ I use Github to track my learning progress
 - 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/alecz-jasmine-chan/
 - Gmail: jasminechan0623@gmail.com
